@@ -1,0 +1,21 @@
+body {text-align: center; margin: 0%;}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+   }
+.centered {
+    position: absolute;
+ top: 50%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+  }
+  h1, h2, h4, h5 {color: rgb(30, 173, 234);}
+  p{color:#393d41 ;}
+  .logo {background-color: black; 
+height: 50px;}
+button {background-color: rgb(244, 68, 9); color: antiquewhite;}
+.immagine {border-radius: 2000px 2000px 2000px 2000px; width: 300px; }
+h1, h2 , h3 {font-size: 150%;}
+.Epicode {background-color: rgb(244, 68, 9); color: aliceblue;}
+.footer {background-color: #25a2c3; color: white;}
